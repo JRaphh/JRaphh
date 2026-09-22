@@ -1,4 +1,4 @@
-# Hi, I'm Jason 👋
+# Hi, I'm Jason Raphael Soedirgo👋
 
 🎓 Cyber Security Student
 🔐 Aspiring Security Engineer
@@ -25,10 +25,12 @@ Currently, I am focusing on developing my skills in **Application Security, Secu
 * Web Application Security
 * Mobile Application Security
 * Penetration Testing Fundamentals
-* Security Monitoring
-* Log Analysis
 * OWASP Top 10
 * Basic Network Security
+* Basic Security Programming
+* Basic Computer Forensics
+* Basic Reverse Engineering
+* Security Monitoring
 
 ### Tools & Technologies
 
@@ -42,8 +44,8 @@ Currently, I am focusing on developing my skills in **Application Security, Secu
 * Git & GitHub
 * Docker
 * GitHub Actions
-* Semgrep
-* Trivy
+* JADX
+* SQL
 
 ### Software Engineering
 
@@ -89,20 +91,6 @@ A personal cybersecurity lab designed to simulate a Security Operations Center e
 
 ---
 
-### 🔐 Secure CI/CD Pipeline
-
-**GitHub Actions · Semgrep · Trivy**
-
-A CI/CD pipeline designed to integrate automated security checks into the software development lifecycle.
-
-**Security checks include:**
-
-* Static Application Security Testing (SAST)
-* Dependency and vulnerability scanning
-* Container security scanning
-* Automated security checks during code changes
-
----
 
 ### 📊 Vulnerability Management Dashboard
 
@@ -156,7 +144,10 @@ Currently learning and building projects around:
 
 I'm always interested in learning, collaborating, and discussing cybersecurity, software engineering, and technology.
 
-**GitHub:** [Your GitHub Prof]()
+* Linkedin: https://www.linkedin.com/in/jason-raphael-b40143336/
+* Email: jason.raphael2006@gmail.com
+
+
 
 <!--
 **JRaphh/JRaphh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
