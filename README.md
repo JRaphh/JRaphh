@@ -1,8 +1,6 @@
 ## Jason Raphael Soedirgo
 
-🎓 Cyber Security Student
-🔐 Aspiring Security Engineer
-💻 Interested in Cybersecurity, Application Security, and Software Engineering
+**Cyber Security Student | Web3 and Blockchain Enthusiast**
 
 I am a Cyber Security student with an interest in building secure systems and understanding how applications can be attacked and protected. I enjoy learning through hands-on projects, security labs, and practical experimentation.
 
