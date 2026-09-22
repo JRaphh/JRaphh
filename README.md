@@ -1,4 +1,4 @@
-# Hi, I'm Jason Raphael Soedirgo👋
+Jason Raphael Soedirgo
 
 🎓 Cyber Security Student
 🔐 Aspiring Security Engineer
@@ -10,7 +10,7 @@ Currently, I am focusing on developing my skills in **Application Security, Secu
 
 ---
 
-## 🛠️ Technical Skills
+Technical Skills
 
 ### Programming & Scripting
 
@@ -19,7 +19,7 @@ Currently, I am focusing on developing my skills in **Application Security, Secu
 * Bash
 * Basic JavaScript
 
-### Cybersecurity
+Cybersecurity
 
 * Vulnerability Assessment
 * Web Application Security
@@ -32,7 +32,7 @@ Currently, I am focusing on developing my skills in **Application Security, Secu
 * Basic Reverse Engineering
 * Security Monitoring
 
-### Tools & Technologies
+Tools & Technologies
 
 * Linux
 * Kali Linux
@@ -47,7 +47,7 @@ Currently, I am focusing on developing my skills in **Application Security, Secu
 * JADX
 * SQL
 
-### Software Engineering
+Software Engineering
 
 * Git & Version Control
 * CI/CD
@@ -59,7 +59,7 @@ Currently, I am focusing on developing my skills in **Application Security, Secu
 
 ---
 
-## 📚 Knowledge
+Knowledge
 
 * **Application Security** — Understanding common vulnerabilities and security testing techniques for web and mobile applications.
 * **DevSecOps** — Integrating security practices into the software development and CI/CD lifecycle.
@@ -73,9 +73,9 @@ Currently, I am focusing on developing my skills in **Application Security, Secu
 
 ---
 
-## 🚀 Projects
+Projects
 
-### 🛡️ Mini SOC Home Lab
+Mini SOC Home Lab
 
 **Wazuh · Ubuntu · Kali Linux**
 
@@ -92,7 +92,7 @@ A personal cybersecurity lab designed to simulate a Security Operations Center e
 ---
 
 
-### 📊 Vulnerability Management Dashboard
+Vulnerability Management Dashboard
 
 **Python · OpenVAS / Greenbone**
 
@@ -109,7 +109,7 @@ A project focused on organizing and visualizing vulnerability assessment results
 
 ---
 
-### 📱 Android Security Testing Lab
+Android Security Testing Lab
 
 **Android · ADB · Frida · Burp Suite**
 
@@ -126,7 +126,7 @@ Hands-on security testing of intentionally vulnerable Android applications.
 
 ---
 
-## 🎯 Current Focus
+Current Focus
 
 Currently learning and building projects around:
 
