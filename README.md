@@ -128,17 +128,17 @@ Hands-on security testing of intentionally vulnerable Android applications.
 
 Currently learning and building projects around:
 
-* 🔐 Security Engineering
-* 🛡️ Application Security
-* 🔎 Vulnerability Assessment
-* ⚙️ DevSecOps
-* 📱 Mobile Application Security
-* 🖥️ Security Monitoring & SOC
-* 🐧 Linux & Networking
+* Security Engineering
+* Application Security
+* Vulnerability Assessment
+* DevSecOps
+* Mobile Application Security
+* Security Monitoring & SOC
+* Linux & Networking
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm always interested in learning, collaborating, and discussing cybersecurity, software engineering, and technology.
 
