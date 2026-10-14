@@ -4,7 +4,7 @@
 
 I am a Cyber Security student with an interest in building secure systems and understanding how applications can be attacked and protected. I enjoy learning through hands-on projects, security labs, and practical experimentation.
 
-Currently, I am focusing on developing my skills in **Application Security, Security Engineering, Vulnerability Assessment, and DevSecOps** while building practical projects for my portfolio.
+Currently, I am focusing on developing my skills in **Application Security, Security Engineering and Vulnerability Assessment** while building practical projects for my portfolio.
 
 ---
 
@@ -15,7 +15,6 @@ Currently, I am focusing on developing my skills in **Application Security, Secu
 * C
 * Python
 * Bash
-* Basic JavaScript
 
 ## Cybersecurity
 
@@ -34,8 +33,6 @@ Currently, I am focusing on developing my skills in **Application Security, Secu
 
 * Linux
 * Kali Linux
-* Wazuh
-* OpenVAS / Greenbone
 * Burp Suite
 * Frida
 * ADB
@@ -72,40 +69,6 @@ Currently, I am focusing on developing my skills in **Application Security, Secu
 ---
 
 ## Projects
-
-## Mini SOC Home Lab
-
-**Wazuh · Ubuntu · Kali Linux**
-
-A personal cybersecurity lab designed to simulate a Security Operations Center environment.
-
-**What I worked on:**
-
-* Setting up Wazuh Manager and security monitoring components
-* Connecting endpoints to the monitoring system
-* Collecting and analyzing security logs
-* Simulating suspicious activities
-* Investigating alerts and security events
-
----
-
-
-## Vulnerability Management Dashboard
-
-**Python · OpenVAS / Greenbone**
-
-A project focused on organizing and visualizing vulnerability assessment results.
-
-**Planned features:**
-
-* Import vulnerability scan results
-* Vulnerability categorization
-* Severity-based prioritization
-* CVSS information
-* Dashboard for vulnerability monitoring
-* Basic reporting
-
----
 
 ## Android Security Testing Lab
 
